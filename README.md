@@ -57,4 +57,10 @@ fetch('info/frukt.json')
 
 ---
 
+# Async & Await 
+
+
+
+---
+
 [Go to Top](#axios--get-post-put-delete)

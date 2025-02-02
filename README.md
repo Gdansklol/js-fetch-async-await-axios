@@ -58,7 +58,12 @@ fetch('info/frukt.json')
 ---
 
 # Async & Await 
-
+- asynchronous function example
+```js
+const getTodos = async () => {
+    
+}
+```
 
 
 ---
